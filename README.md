@@ -22,7 +22,7 @@
 ## 输入index 后左上角会显示index
 
 
-## 创建同样的两个Note B、C和D
+## 创建同样的三个Note B、C和D
 
 ![image](https://github.com/xiaoaini12138/Notepad/blob/master/screenshot/04.png)
 ![image](https://github.com/xiaoaini12138/Notepad/blob/master/screenshot/05.png)
