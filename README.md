@@ -5,9 +5,9 @@
 
 ![image](https://github.com/xiaoaini12138/Notepad/blob/master/screenshot/09.png)
 
-### 创建完Note会自动生成时间戳
+* 创建完Note会自动生成时间戳
 
-## 更改了图标美化了界面
+* 更改了图标美化了界面
 
 # 说明
 
