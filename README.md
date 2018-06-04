@@ -30,3 +30,19 @@
 
 ![image](https://github.com/xiaoaini12138/Notepad/blob/master/screenshot/07.png)
 ![image](https://github.com/xiaoaini12138/Notepad/blob/master/screenshot/08.png)
+
+//源码
+  public SimpleCursorAdapter(Context context, int layout, Cursor c, String[] from, int[] to) {
+      super(context, layout, c);
+      mTo = to;
+      mOriginalFrom = from;
+      findColumns(c, from);
+  }
+  ```
+  ```
+   //from 第二项为增加项 下同
+   String[] dataColumns = {NotePad.Notes.COLUMN_NAME_TITLE,  NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE};
+
+   //to
+   int[] viewIDs = {android.R.id.text1, R.id.tv_time_stamp};
+  ```
