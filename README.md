@@ -1,4 +1,4 @@
-# Notepad
+# NotePad
 * 期中实验
 
 ## 主界面  
